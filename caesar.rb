@@ -20,4 +20,4 @@ def caesar_cipher(string, shift)
 		p coded_string
 
 end
-caesar_cipher("Why is there no upcase method??", 1)
+caesar_cipher("What a string!", 5)
